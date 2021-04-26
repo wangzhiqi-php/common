@@ -1,5 +1,5 @@
 {
-    "name": "panan/for_private_use_function",
+    "name": "wangpanan/use_function",
     "description": "token，加密解密，数组，字符串，http请求的封装,微信支付，支付宝支付",
     "type": "library",
     "license": "mit",
